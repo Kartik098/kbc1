@@ -1,0 +1,45 @@
+[
+    
+    {
+        "q":"What is capital of india?",
+       "optionA":"A. Dehli",
+        "optionB":"B. Haryana",
+        "optionC":"C. Gujarat",
+        "optionD":"D. Bengal",        
+        "Ans":"B. Dehli"
+    },
+    {
+        "q":"Where is Gujarat",
+       "optionA":"A. East",
+        "optionB":"B. West",
+        "optionC":"C. South",
+        "optionD":"D. North",
+        "Ans":"D. East"
+    },
+    {
+        "q":"In 'Doraemon' who is Jian's best friend",
+       "optionA":"A. SUNIO",
+        "optionB":"B.SHIZUKA",
+        "optionC":"C. NOBITA",
+        "optionD":"D. DEKISUGI",
+        "Ans":"A. SUNIO"
+    },
+ 
+    {
+        "q":"What are John Abraham and Akshay Kumar's professions in Garam Masala?",
+       "optionA":"A. Reporter",
+        "optionB":"B. Photographers",
+        "optionC":"C. Professors",
+        "optionD":"D. Lawyers",
+        "Ans":"B. Photographers"
+    },
+
+    {
+        "q":"Who is the director of 'Bahubali'",
+       "optionA":"A. S.S Rajamouli",
+        "optionB":"B. Sanjay Leele Bhansali",
+        "optionC":"C. Anurag Kashyap",
+        "optionD":"D. S.Shankar",
+        "Ans":"A. S.S Rajamouli"
+    }
+]
